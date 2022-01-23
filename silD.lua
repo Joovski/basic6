@@ -1,7 +1,7 @@
 local Config = {
     Enabled = false,
     TeamCheck = false,
-    HitPart = "Head",
+    HitPart = "HumanoidRootPart",
     Method = "FindPartOnRayWithIgnoreList",
     FieldOfView = {
         Enabled = false,
